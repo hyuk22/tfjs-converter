@@ -45,16 +45,16 @@
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/@protobufjs/utf8/-/utf8-1.1.0.tgz#a777360b5b39a1a2e5106f8e858f2fd2d060c570"
 
-"@tensorflow/tfjs-converter@0.1.1":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@tensorflow/tfjs-converter/-/tfjs-converter-0.1.1.tgz#3b6355e83cb48f8e0abbfaa2cf3f745ceb47c939"
+"@tensorflow/tfjs-converter@0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@tensorflow/tfjs-converter/-/tfjs-converter-0.2.0.tgz#a4aa2b395ff54e5bf9bf111b6a7c1809320a1a33"
   dependencies:
     "@types/long" "~3.0.32"
     protobufjs "~6.8.0"
 
-"@tensorflow/tfjs-core@0.6.1":
-  version "0.6.1"
-  resolved "https://registry.yarnpkg.com/@tensorflow/tfjs-core/-/tfjs-core-0.6.1.tgz#9358ecbc04279e617e4f37448223eb065ee18d9b"
+"@tensorflow/tfjs-core@0.8.0":
+  version "0.8.0"
+  resolved "https://registry.yarnpkg.com/@tensorflow/tfjs-core/-/tfjs-core-0.8.0.tgz#a525b8f6a57e145c00bf4d33bfdf9282c54a10b1"
   dependencies:
     seedrandom "~2.4.3"
 

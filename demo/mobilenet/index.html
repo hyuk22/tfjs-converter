@@ -15,7 +15,11 @@ limitations under the License.
 
 <!doctype html>
 <html>
-  <head></head>
+  <head>
+    <meta charset='utf-8'/>
+    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="theme-color" content="#000000">
+  </head>
   <style>
     body {
       font-family: "Roboto", "Helvetica", "Arial", sans-serif;
@@ -26,7 +30,9 @@ limitations under the License.
 
   <body>
     <h1>TensorFlow.js Converter: MobileNet</h1>
-    <img id="cat"></img>
+    <video id="player" controls autoplay></video>
+    <button id="capture">캡쳐</button>
+    <canvas id="snapshot" width=256 height=256></canvas>
     <div id="result"></div>
   </body>
 
